@@ -6,11 +6,33 @@ Welcome to my personal cybersecurity knowledge base! 🚀
 
 This repository is where I document my learning journey in the world of **offensive security, penetration testing, and CTF challenges**. I take these notes both to reinforce my own learning and to share useful knowledge with the community.
 
-I'm an aspiring **military cybersecurity specialist**, and this repo is a reflection of my path toward that goal.
+---
+
+## 👨‍💻 About Me
+
+I'm a **14-year-old aspiring military cybersecurity specialist** and **Next.js developer** from Turkey. I started my journey into cybersecurity because I was fascinated by how systems work — and how they break. 
+
+At an age when most people are just using applications, I am learning how to build them securely and find their vulnerabilities. This repository is proof that **age is just a number** when it comes to passion, dedication, and continuous learning.
+
+> 💡 *"I may be young, but I'm determined to make a difference in the cybersecurity and software development world."*
 
 ---
 
-## 📌 About
+## 🌐 Web Development & Next.js Expertise
+
+Alongside cybersecurity, I am an experienced **Next.js** developer. I have built and deployed multiple production-ready projects, focusing on clean code, performance, and security (like CSRF protection and Role-Based Access Control). 
+
+Here are some of my notable projects:
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🎓 **ClaFlow** | A comprehensive homework management platform. Features Role-Based Access Control (ADMIN, TEACHER, STUDENT), CSRF protection, and streamlined assignment tracking. | [claflow.vercel.app](https://claflow.vercel.app) |
+| 💼 **Personal Portfolio** | My official portfolio website. Check out the "Skills" section to see my latest projects and deep dive into my tech stack. | [ibrahimfatihyildirim.vercel.app](https://ibrahimfatihyildirim.vercel.app/home) |
+| 💬 **Baldi's Leader** | A custom chat and blog platform developed as a freelance project, demonstrating my ability to understand and deliver client requirements effectively. | [baldi-s-leader.vercel.app](https://baldi-s-leader.vercel.app) |
+
+---
+
+## 📌 About This Repository
 
 I created this repository to:
 
@@ -18,6 +40,7 @@ I created this repository to:
 - 🧠 Reinforce concepts by writing them down
 - 🤝 Share knowledge with others who are on the same journey
 - 💼 Showcase my skills and progress to potential mentors and employers
+- 🌟 Inspire other young learners that it's never too early to start
 
 > ⚠️ **Disclaimer:** These notes are written for **educational purposes only**. Please do not use any of the techniques described here against systems you do not own or have explicit permission to test.
 
@@ -58,9 +81,9 @@ Each write-up includes:
 
 Some of the tools and technologies I work with:
 
-- **Offensive:** Nmap, Burp Suite, Metasploit, SQLMap, Netcat, Gobuster
-- **Web:** Next.js, Tailwind CSS, JavaScript
-- **OS:** Kali Linux, Parrot OS, Ubuntu
+- **Offensive Security:** Nmap, Burp Suite, Metasploit, SQLMap, Netcat, Gobuster
+- **Web Development:** Next.js, React, Tailwind CSS, JavaScript, Node.js
+- **Operating Systems:** Kali Linux, Parrot OS, Ubuntu, Windows
 - **Scripting:** Python, Bash
 
 ---
@@ -70,6 +93,7 @@ Some of the tools and technologies I work with:
 - [x] Linux fundamentals
 - [x] Networking basics
 - [x] Web application pentesting
+- [x] Secure coding practices (CSRF, RBAC, Input Validation)
 - [ ] Active Directory attacks
 - [ ] Reverse engineering
 - [ ] Malware analysis
@@ -79,18 +103,12 @@ Some of the tools and technologies I work with:
 
 ## 📬 Contact
 
-Feel free to reach out if you have questions, suggestions, or just want to talk about cybersecurity!
+Feel free to reach out if you have questions, suggestions, or just want to talk about cybersecurity and web development!
 
-- 📧 Email: *[your-email@example.com]*
-- 🔗 LinkedIn: *[your-linkedin]*
-- 🎮 Hack The Box: *[your-htb-profile]*
-
----
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).  
-Feel free to use and share the notes, but please give proper credit.
+- 📧 Email: [ibrahimfatih.yildirim@tutamail.com]
+- 🔗 LinkedIn: I have been banned LinkedIn :(
+- 🎮 Hack The Box: *[(https://app.hackthebox.com/users/2418616?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)]*
+- 🌐 Portfolio: [ibrahimfatihyildirim.vercel.app](https://ibrahimfatihyildirim.vercel.app/home)
 
 ---
 
@@ -98,6 +116,6 @@ Feel free to use and share the notes, but please give proper credit.
 
 **If you found this repo useful, consider giving it a ⭐!**
 
-*Happy hacking!* 💻🔒
+*Young hacker, big dreams, secure code!* 💻🔒🚀
 
 </div>
